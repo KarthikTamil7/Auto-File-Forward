@@ -12,7 +12,7 @@ Made with Python3
 ```
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/404COD/FILE-FORWARD-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KarthikTamil7/Auto-File-Forward)
 
 Deploy in your vps
 ```sh
